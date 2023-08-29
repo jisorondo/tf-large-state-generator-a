@@ -17,8 +17,6 @@ Initial purpose was to test the modes of execution in TFE
 	  end result be doubled. E.g. if you set it to 1000 will have  1000 `random_pets` and 1000 `random_string`
 3. Run plan/apply
 
-
-
 ## Examples
 
 Sub-folder examples contains some reports of using the code with screenshots and logs. 
