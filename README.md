@@ -13,7 +13,7 @@ Initial purpose was to test the modes of execution in TFE
 	
 	- string_length - length of the string to be generated
 	- pet_words - count of words used in pet name
-    - pets_count - amount of pet resoruce and strings to generate, be aware that
+        - pets_count - amount of pet resoruce and strings to generate, be aware that
 	  end result be doubled. E.g. if you set it to 1000 will have  1000 `random_pets` and 1000 `random_string`
 3. Run plan/apply
 
